@@ -1,1 +1,1 @@
-basic project to get started with leaning react native 
+simple game project to get started with learning react native :)
